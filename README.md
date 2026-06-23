@@ -24,4 +24,3 @@ This project involves a comprehensive end-to-end data science pipeline:
 ## 📂 Repository Structure
 * `notebooks/`: Contains EDA and model training steps.
 * `data/`: Processed datasets used for training.
-* `reports/`: Detailed technical report and project proposal.

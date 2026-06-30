@@ -60,35 +60,6 @@ notebooks/
 └── README.md
 ```
 
-## Getting started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/<your-username>/ComEd-Energy-Forecasting.git
-   cd ComEd-Energy-Forecasting
-   ```
-
-2. (Recommended) Create and activate a virtual environment:
-
-   ```bash
-   python3 -m venv .venv
-   source .venv/bin/activate      # On Windows: .venv\Scripts\activate
-   ```
-
-3. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Download the datasets (see [Data](#data)) and place the CSVs where the notebooks expect them.
-
-5. Launch Jupyter and run the notebooks in order:
-
-   ```bash
-   jupyter notebook
-   ```
 
 ## Requirements
 

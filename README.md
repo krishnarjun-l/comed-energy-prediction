@@ -55,9 +55,7 @@ notebooks/
 │   ├── 02_missing_values_imputation.ipynb
 │   ├── 03_energy_consumption_prediction.ipynb
 │   └── Final_Project.ipynb
-├── reports/
-│   ├── Project_Proposal.pdf
-│   └── Final_Project_Report.pdf
+├── Final_Project_Report.pdf
 ├── requirements.txt
 └── README.md
 ```
